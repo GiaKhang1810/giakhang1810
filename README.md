@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Gia Khang
 
-<!--
-**GiaKhang1810/giakhang1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gia+Khang+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Python+%7C+Java+%7C+Go" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎂 **18/10**
+
+I'm **Gia Khang**, a developer interested in software development and building useful things.
+
+---
+
+## 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,go" />
+</p>
+
+---
+
+## 📚 Interests
+
+* Software Development
+* Backend Development
+* API Development
+* Open Source
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving. 🚀</i>
+</p>
