@@ -17,7 +17,7 @@ I'm **Gia Khang**, a developer interested in software development and building u
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,c#,js,ts,python,java,go,rust" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,java,go,rust" />
 </p>
 
 ---
