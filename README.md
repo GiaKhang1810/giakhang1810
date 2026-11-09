@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gia Khang
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gia+Khang+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Python+%7C+Java+%7C+Go;Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gia+Khang+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+JavaScript+%7C+TypeScript;Python+%7C+Java+%7C+Go;Rust+%7C+C+%7C+C#" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ I'm **Gia Khang**, a developer interested in software development and building u
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,c#,js,ts,python,java,go,rust" />
 </p>
 
 ---
